@@ -1,0 +1,5 @@
+# Proyecto Software FJ - Fase 4
+# Dependencias principales: solo biblioteca estándar de Python (>=3.10)
+# Dependencia opcional usada para generar el PDF académico:
+fpdf2>=2.7.0
+pytest>=7.0.0
